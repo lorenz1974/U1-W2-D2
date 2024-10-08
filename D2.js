@@ -33,7 +33,7 @@ if (n3 !== 5) {
 console.log('[Esercizio 3]')
 let n4 = 10
 if (n4 % 5 === 0) {
-  console.log('divisibile per 5')
+  console.log(n4 + ' è divisibile per 5')
 }
 
 /* ESERCIZIO 4
@@ -99,7 +99,7 @@ console.log('Il totale da addebitare è: ' + total)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-// preso da https://asaba.altervista.org/wp-content/uploads/2017/01/Ordina-Tre-Numeri.pdf
+// Algortmo preso da https://asaba.altervista.org/wp-content/uploads/2017/01/Ordina-Tre-Numeri.pdf
 console.log('[Esercizio 7]')
 let n7 = 13
 let n8 = 22
