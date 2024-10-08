@@ -63,7 +63,7 @@ let item2 = 22
 let item3 = 5.001
 let totalShoppingCart = item1 + item2 + item3
 // "Resetto" al valore di default delle spese di spedizione
-shippingCost = 10
+let shippingCost = 10
 if (totalShoppingCart > 50) {
   shippingCost = 0
 }
